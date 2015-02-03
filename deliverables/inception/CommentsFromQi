@@ -1,0 +1,4 @@
+2/3 comments:
+1. In use case diagram, what are "user 1" and "user 2"?How about using "normal users" and "registered user". 
+The naming in use cases and use case descriptions are not matched.
+2. In use case descriptions, the numbering in alternate flow is not matched to the numbering in basic flow.
